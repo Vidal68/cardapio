@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!--Onde tudo teve ínicio -->
+<head>
+  <!--Nome do trabalho-->
+  <title> Cardápio Recanto dos Guerreiros</title>
+  <!--início da cabeça do site, serão usados aqui meta tag de controle-->
+  <html lang="pt-BR">
+  <meta charset="utf-8">
+  <link href="estilo.CSS" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <link hrel="stylesheet" type ="estilo.CSS"
+  <body id="fundo">
+  <!--Corpo do trabalho-->
+
+  <h1>Pratos para soborear na quinta feira</h1>
+  
+<img src="img.3.jpg" alt="foto usada para com roupa de chefe de cozinha" width="150" height="150">
+<hr size="#">
+
+<h1>-------------------------Cardapio Recanto dos Guerreiros-------------------------</h1>
+<hr>
+<img src="img.4.jpg" alt="foto da mesa farta de comidas" width="150" height="150">
+<hr size="#">
+<h2>Sejam bem vindos ao nosso restaurante. Um brinde a vida.</h2>
+<hr>
+<h2>Todas as comidas em cima da mesa são sagradas, agradeça antes e depois das refeições!" Deus é bom e nunca deixará faltar a comida para o seu almoço,
+sendo assim bora almoçar!"
+Bolo Salgado R$15,00 - Feijão R$15,00 - Suco de laranja R$12,00 - Farofa R$13,00 - Sala de Alface R$11,00 e salada de legumes R$12,50.</h2><hr>
+<img src="img.1.jpg" alt="comida caseira" width="150" height="150">
+<h2>"Hoje teremos batata frita a cavalo com frango grelhado.
+  R$35,00"</h2>
+<hr>
+<img src="img.2.jpg" alt="pavê de morango" width="150" height="150">
+
+<h2>"Sobremesa pavê de morango,com creme branco e confeitos de chocolhate. R$14,00"</h2>
+<hr>
+</div>
+</body>
+</html>
